@@ -1,0 +1,1 @@
+const addPost = document.querySelector(".add")
